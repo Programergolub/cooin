@@ -1,4 +1,3 @@
-##Cooin, the pigeon crypto##
 Hey bird lovers,
 
 Get ready to ruffle some feathers! Introducing Cooin, the revolutionary cryptocurrency designed specifically for our feathered friends.
@@ -17,6 +16,5 @@ Secure: Built on the strongest pigeon-proof blockchain technology.
 Fast: Transactions are swift as a pigeon's wing.
 Eco-friendly: Powered by renewable pigeon power (think flapping).
 Join the Cooin flock today and experience the future of pigeon finance!
-
 
 
