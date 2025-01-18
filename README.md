@@ -1,4 +1,4 @@
-#Hey bird lovers,
+Hey bird lovers,
 
 Get ready to ruffle some feathers! Introducing Cooin, the revolutionary cryptocurrency designed specifically for our feathered friends.
 
