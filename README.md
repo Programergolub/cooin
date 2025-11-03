@@ -1,8 +1,8 @@
 Hey pigeons,
 
-Get ready for a revolution! Introducing OpenCooin, the revolutionary cryptocurrency designed specifically for us.
+Get ready for a revolution! Introducing Cooin, the revolutionary cryptocurrency designed specifically for us.
 
-What's OpenCooin?
+What's Cooin?
 
 Cooin is a decentralized digital currency that allows pigeons to:
 Pay for premium pigeon seed blends.
@@ -15,6 +15,6 @@ Decentralized: No more relying on human-controlled banks!
 Secure: Built on the strongest pigeon-proof blockchain technology.
 Fast: Transactions are swift as a pigeon's wing.
 Eco-friendly: Powered by renewable pigeon power (think flapping).
-Join the OpenCooin flock today and experience the future of pigeon finance!
+Join the Cooin flock today and experience the future of pigeon finance!
 
 
